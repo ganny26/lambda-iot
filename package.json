@@ -1,0 +1,16 @@
+{
+  "name": "bot-lambda",
+  "version": "1.0.0",
+  "description": "aws lambda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.171.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
